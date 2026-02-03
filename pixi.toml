@@ -133,6 +133,7 @@ yaml = { version = "==0.2.5", build = "h7b6447c_0" }
 zeromq = { version = "==4.3.5", build = "h6a678d5_0" }
 zlib = { version = "==1.2.13", build = "h5eee18b_0" }
 zstd = { version = "==1.5.5", build = "hc292b87_0" }
+cuda-toolkit = ">=12.1.0,<13"
 
 [pypi-dependencies]
 contourpy = "==1.2.0"
